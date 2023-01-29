@@ -1,0 +1,22 @@
+{
+  "name": "@w6/css",
+  "version": "1.0.0",
+  "description": "WEB6's CSS Framework",
+  "main": "index.js",
+  "scripts": {
+    "docs": "sassdoc src/ --dest docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/w6cloud/w6-css.git"
+  },
+  "author": "WEB6 Cloud <hello@web6.cloud>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/w6cloud/w6-css/issues"
+  },
+  "homepage": "https://github.com/w6cloud/w6-css#readme",
+  "devDependencies": {
+    "sassdoc": "^2.7.4"
+  }
+}

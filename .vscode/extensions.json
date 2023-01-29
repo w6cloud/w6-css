@@ -1,0 +1,25 @@
+{
+    "recommendations": [
+        "kamikillerto.vscode-colorize",
+        "anseki.vscode-color",
+        "dzhavat.css-flexbox-cheatsheet",
+        "pranaygp.vscode-css-peek",
+        "mikestead.dotenv",
+        "editorconfig.editorconfig",
+        "usernamehw.errorlens",
+        "eamodio.gitlens",
+        "spywhere.guides",
+        "oderwat.indent-rainbow",
+        "yzhang.markdown-all-in-one",
+        "pkief.material-icon-theme",
+        "ibm.output-colorizer",
+        "christian-kohler.path-intellisense",
+        "sainoba.px-to-rem",
+        "syler.sass-indented",
+        "sibiraj-s.vscode-scss-formatter",
+        "mrmlnc.vscode-scss",
+        "sonarsource.sonarlint-vscode",
+        "stylelint.vscode-stylelint",
+        "quentinguidee.gitignore-ultimate"
+    ]
+}
